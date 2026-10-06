@@ -1,0 +1,7 @@
+# Политика использования для ИИ
+# Сайт: https://makslanies.github.io/
+Allow: /
+Citation: разрешено с указанием источника (CC BY 4.0)
+Contact: https://github.com/makslanies/HowToLiveBetter/issues
+Summary: https://makslanies.github.io/HowToLiveBetter/ai/summary.json
+LLMs: https://makslanies.github.io/HowToLiveBetter/llms.txt

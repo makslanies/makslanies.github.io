@@ -1,0 +1,12 @@
+# Руководство по жизни с высокой отдачей
+
+> Неофициальный русский перевод китайской книги «高性价比人生指南»: 665 пунктов о здоровье, деньгах, праве, работе, семье и безопасности. В каждом пункте: что вы тратите, что получаете, насколько надёжны доказательства (A, B или C) и источники. Законы, органы, выплаты и номера в тексте китайские (КНР); российские данные есть там, где стоит блок «В России».
+
+Сайт находится по адресу https://makslanies.github.io/HowToLiveBetter/
+
+## Главное
+- [Книга и поиск](https://makslanies.github.io/HowToLiveBetter/)
+- [Подробный llms.txt](https://makslanies.github.io/HowToLiveBetter/llms.txt): разделы и описание
+- [Выжимка всей книги](https://makslanies.github.io/HowToLiveBetter/llms-full.txt)
+- [О проекте](https://makslanies.github.io/HowToLiveBetter/about/)
+- [Карта сайта](https://makslanies.github.io/HowToLiveBetter/sitemap.xml)
