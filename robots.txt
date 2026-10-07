@@ -1,6 +1,8 @@
 # robots.txt: ИИ-краулерам разрешён весь сайт (список ботов из geo-optimizer-skill)
 User-agent: *
 Allow: /
+# PDF-копии страниц нужны читателям для скачивания, в поиске они были бы дублями страниц
+Disallow: /HowToLiveBetter/pdf/
 
 User-agent: GPTBot
 Allow: /
